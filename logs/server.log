@@ -1,0 +1,12 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 294 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.2.90:3000/
+The file does not exist at "/home/workspace/node_modules/.vite/deps/framer-motion.js?v=2a1813a8" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
+6:55:22 AM [vite] ✨ new dependencies optimized: framer-motion, @splinetool/react-spline, lucide-react
+6:55:22 AM [vite] ✨ optimized dependencies changed. reloading
